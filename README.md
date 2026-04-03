@@ -26,34 +26,49 @@
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td align="center" width="50%">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=680&lines=Aspiring+AI+Engineer+%7C+Computer+Vision+%7C+Intelligent+Systems;Building+real-world+AI+applications+from+scratch;Always+learning.+Always+building.+Always+improving." alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=200&text=👩‍💻&fontSize=80&fontAlignY=55&animation=fadeIn" width="220" style="border-radius:20px"/>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/-%22I%20am%20an%20aspiring%20AI%20Engineer%20passionate%20about%20building%20intelligent%20systems%22-1e1e2e?style=for-the-badge&labelColor=A78BFA&color=1e1e2e&logoColor=white" />
+
+<br/><br/>
+
+<table border="0">
+<tr>
+<td align="center" width="33%">
+
+**👩‍💻 Who I Am**
+
+I enjoy learning new technologies, working on real-world projects, and continuously improving my skills in AI and software development.
 
 </td>
-<td align="left" width="50%" style="padding-left: 20px">
+<td align="center" width="33%">
 
-### Hi, I'm Gopika 👋
+**🎯 What I Do**
 
-I'm an **Aspiring AI Engineer** with a strong focus on **computer vision** and **intelligent systems**. I build real-world applications like AI-powered monitoring systems, smart search engines, and news summarization platforms using modern AI technologies.
+I build AI-powered monitoring systems, smart search engines, and news summarization platforms using modern AI technologies.
 
-<br/>
+</td>
+<td align="center" width="33%">
 
-![ISE Student](https://img.shields.io/badge/🎓_ISE_Student-A78BFA?style=flat-square&logoColor=white)
-![India](https://img.shields.io/badge/📍_India-FF9933?style=flat-square&logoColor=white)
-![Open to Work](https://img.shields.io/badge/💼_Open_to_Opportunities-22C55E?style=flat-square&logoColor=white)
+**🚀 Where I'm Headed**
+
+Aspiring to lead impactful AI solutions at scale — from research to production-ready systems.
 
 </td>
 </tr>
 </table>
 
-</div>
-
 <br/>
 
-<div align="center">
+![ISE Student](https://img.shields.io/badge/🎓%20ISE%20Student-A78BFA?style=for-the-badge&logoColor=white)
+&nbsp;
+![India](https://img.shields.io/badge/📍%20India-FF9933?style=for-the-badge&logoColor=white)
+&nbsp;
+![Open to Work](https://img.shields.io/badge/💼%20Open%20to%20Opportunities-22C55E?style=for-the-badge&logoColor=white)
+
+<br/>
 
 | 🎯 Focus Areas | 🔬 Domains |
 |:-:|:-:|
